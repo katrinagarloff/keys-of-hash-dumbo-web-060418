@@ -1,5 +1,5 @@
 class Hash
-  def keys_of(value)
+  def keys_of(*values)
     key_array = []
     
   end
