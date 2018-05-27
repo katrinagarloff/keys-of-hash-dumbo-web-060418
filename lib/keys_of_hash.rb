@@ -6,6 +6,7 @@ class Hash
       if value == v 
         array_of_values << k
       end
+      end
     end
   end
   #keys_of("meow", 3, "pih-chow!")
