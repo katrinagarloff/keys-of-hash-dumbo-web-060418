@@ -4,6 +4,6 @@ class Hash
       puts value
     end
   end
+  keys_of("meow", 3, "pih-chow!")
 end
 
-keys_of("meow", 3, "pih-chow!")
