@@ -8,6 +8,7 @@ class Hash
       end
       end
     end
+    array_of_values
   end
   #keys_of("meow", 3, "pih-chow!")
 end
