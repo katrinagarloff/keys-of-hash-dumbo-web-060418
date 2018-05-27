@@ -1,6 +1,7 @@
 class Hash
   def keys_of(*values)
-    key_array = []
-    
+    values.each do |value|
+      value
+    end
   end
 end
